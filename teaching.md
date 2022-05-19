@@ -16,7 +16,7 @@ I established a growth-oriented atmosphere by instructing students to follow up 
 
 SROP’s minority-serving mission is carried out by all-minority leadership team.
 Integrating in this environment exposed me to praxis for advancing minority students fundamentally different from my experience in predominantly white spaces.
-Instead of emphasizing reduction of harm to students by minimizing racist policy and social dynamics, SROP’s leadership pursued a proactive, restorative approach to catch students up on commonly un- or informally-taught research skills and provide explicitly-structured working environment that many are used to operating in.
+Instead of emphasizing reduction of harm to students by minimizing racist policy and social dynamics, SROP’s leadership pursued a proactive, restorative approach to catch students up on commonly un- or informally-taught research skills and provide explicitly-structured working environment that many are used to operating in (Stanich, 2018).
 At the end of the program, our students have developed capabilities to clearly and persuasively communicate their research question to audiences inside and outside their field, as well as showcase their professional accomplishments, qualifications, and objectives with a fleshed-out curriculum vitae and personal statement.
 Reaching these learning objectives required me to pay close attention to technical aspects of students’ work to detect deeper, fundamental knowledge gaps and provide directive feedback and guidance where necessary.
 Through this work, I have developed emphasis on establishing and structuring expectations for excellence as a crucial component of my anti-racist pedagogy playbook.
@@ -51,7 +51,8 @@ Everything from laundry to an evolutionary biology reading ended up on the list,
 
 My service as a teaching assistant for the upper-division CSE 431 “Algorithms Engineering” course during fall 2021 challenged me to apply my ethos of allyship into a larger, more traditional classroom setting.
 During our class periods, I quickly noticed that our active learning exercises were translating poorly into the hybrid-remote paradigm.
-Conversation to solve a problem or reflect on a concept within virtual breakout rooms quickly fizzled out.
+Pedagogy research strongly connects active learning strategies to improved student outcomes (particularly with respect to underrepresented groups) (Freeman, 2014; Wieman, 2014; Theobald et al., 2020), so ensuring successful implementation was crucial to effectively and equitably accomplishing our course objectives.
+However, conversation within our virtual breakout rooms quickly to solve a problem or reflect on a concept would quickly fizzle out.
 Even though remote students constituted a minority of the class population, I discovered special instructor attention would be necessary to provide equitable active learning experiences to this population.
 However, I also found that, loitering in breakout rooms to kindle discussions, my presence as an instructor shifted group dynamics away from authentic peer-peer engagement.
 So, I adjusted my strategy to instead hop rapidly between rooms and interject myself only as an intermittent catalyst.
@@ -77,3 +78,13 @@ Over our first summer of WAVES and our reprisal of the workshop in 2021, a major
 As I unfold my own career as a teacher and mentor, I look forward to refining and expanding my lens of educational allyship in order to better serve my students’ diverse journeys toward excellence in their professional objectives.
 I look forward to the opportunity to leverage my direct instruction experience in introductory programming, algorithm engineering, modern C++ software engineering, and professional commmunication courses.
 Additionally, I would be enthusiastic to build on my experience in curriculum design and develop or revamp courses exploring aspects of my research activities including WebAssembly compilation technologies, parallel/distributed computing, evolutionary computation, and artificial life.
+
+## References
+
+Freeman, Scott, et al. “Active learning increases student performance in science, engineering, and mathematics.” Proceedings of the national academy of sciences 111.23 (2014): 8410-8415.
+
+Stanich, Cynthia A., et al. “A new approach to supplementary instruction narrows achievement and affect gaps for underrepresented minorities, first-generation students, and women.” Chemistry Education Research and Practice 19.3 (2018): 846-866.
+
+Theobald, Elli J., et al. “Active learning narrows achievement gaps for underrepresented students in undergraduate science, technology, engineering, and math.” Proceedings of the National Academy of Sciences 117.12 (2020): 6476-6483
+
+Wieman, Carl E. “Large-scale comparison of science teaching methods sends clear message.” Proceedings of the National Academy of Sciences 111.23 (2014): 8319-8320.
