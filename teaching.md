@@ -1,6 +1,7 @@
 I strive to center allyship in my teaching.
 First and foremost, this means acting to better computer science by supporting the recruitment, retention, and advancement of students from historically marginalized backgrounds within the field.
 However, engaging this lens of allyship has made me a more effective educator to all my students -—- including students with privileged backgrounds —-- by strengthening my capacity to critically assess existing practices for barriers to student learning and professional social integration then implement intentional, effective interventions to address those barriers.
+I infuse my practice with anti-racist principles, growth-oriented framing, explicit and structured student objectives, directive feedback, authentic relationships of trust, active learning experiences, independent student scholarly work, and flexibility to rapidly adjust day-to-day aspects of instruction based on classroom conditions, and willingness to make more fundamental adjustments based on critical self-reflection and evidence—based analysis.
 
 Throughout my career, I have actively sought out opportunities to engage in educational allyship and grow as an effective ally.
 Among these, my four years with the primarily minority-serving, majority black Summer Research Opportunities Program (SROP) at Michigan State University has been the most consequential.
@@ -74,3 +75,5 @@ One of our approximately fifteen CSE 491 students was a black woman who went on 
 Over our first summer of WAVES and our reprisal of the workshop in 2021, a majority of participants — 20 out of 27 (74%) — were members of an underrepresented group in computer science.
 
 As I unfold my own career as a teacher and mentor, I look forward to refining and expanding my lens of educational allyship in order to better serve my students’ diverse journeys toward excellence in their professional objectives.
+I look forward to the opportunity to leverage my direct instruction experience in introductory programming, algorithm engineering, modern C++ software engineering, and professional commmunication courses.
+Additionally, I would be enthusiastic to build on my experience in curriculum design and develop or revamp courses exploring aspects of my research activities including WebAssembly compilation technologies, parallel/distributed computing, evolutionary computation, and artificial life.
