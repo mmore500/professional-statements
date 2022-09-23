@@ -1533,4 +1533,44 @@ It is even possible to imagine reciprocal interactions between real-time best-ef
 In the case of a positive feedback loop, the magnitude of effects might become extreme.
 For example, in artificial life scenarios, agents may evolve strategies that selectively increase messaging traffic so as to encumber neighboring processing elements or even cause important messages to be dropped.
 
+Digital evolution techniques compliment traditional wet-lab evolution experiments by enabling researchers to address questions that would be otherwise limited by:
+
+    reproduction rate (which determines the number of generations that can be observed in a set amount of time),
+    incomplete observations (every event in a digital system can be tracked),
+    physically-impossible experimental manipulations (every event in a digital system can can be arbitrarily altered), or
+    resource- and labor-intensity (digital experiments and assays can be easily automated).
+
+The versatility and rapid generational turnover of digital systems can easily engender a notion that such systems can already operate at scales greatly exceeding biological evolution experiments. Although digital evolution techniques can feasibly simulate populations numbering in the millions or billions, very simple agents and/or very limited agent-agent interaction. With more complex agents controlled by genetic programs, neural networks, or the like, feasible population sizes dwindle down to thousands or hundreds of agents.
+🔗 Putting Scale in Perspective
+
+Take Avida as an example. This popular software system that enables experiments with evolving self-replicating computer programs. In this system, a population of ten thousand can undergo about twenty thousand generations per day. This means that about two hundred million replication cycles are performed in a day [Ofria et al., 2009].
+
+Each flask in the Lenski Long-Term Evolution Experiment hosts a similar number of replication cycles. In their system, E. coli undergo about six doublings per day. Effective population size is reported as 30 million [Good et al., 2017]. Hence, about 180 million replication cycles elapse per day.
+
+Likewise, in Ratcliff’s work studying the evolution of multicellularity in S. cerevisiae, about six doublings per day occur among a population numbering on the order of a billion cells [Ratcliff, 2012]. So, around six billion cellular replication cycles elapse per day in this system.
+
+Although artificial life practitioners traditionally describe instances of their simulations as “worlds,” with serial processing power their scale aligns (in naive terms) more along the lines of a single flask. Of course, such a comparison neglects the disparity between Avidians and bacteria or yeast in terms of genome information content, information content of cellular state, and both quantity and diversity of interactions with the environment and with other cells.
+
+Recent work with SignalGP has sought to address some of these shortcomings by developing digital evolution substrates suited to more dynamic environmental and agent-agent interactions [Lalejini and Ofria, 2018] that more effectively incorporate state information [Lalejini et al., 2020; Moreno, 2020]. However, to some degree, more sophisticated and interactive evolving agents will necessarily consume more CPU time on a per-replication-cycle basis — further shrinking the magnitude of experiments tractable with serial processing.
+🔗 The Future is Plastics Parallel
+
+Throughout the 20th century, serial processing enjoyed regular advances in computational capacity due to quickening clock cycles, burgeoning RAM caches, and increasingly clever packing together of instructions during execution. Since, however, performance of serial processing has bumped up against apparent fundamental limits to computing’s current technological incarnation [Sutter, 2005]. Instead, advances in 21st century computing power have arrived via multiprocessing [Hennessy and Patterson, 2011, p.55] and hardware acceleration (e.g., GPU, FPGA, etc.) [Che et al., 2008].
+
+Contemporary high-performance computing clusters link multiprocessors and accelerators with fast interconnects to enable coordinated work on a single problem [Hennessy and Patterson, 2011, p.436]. High-end clusters already make hundreds of thousands or millions of cores available. More loosely-affiliated banks of servers can also muster significant computational power. For example, Sentient Technologies notably employed a distributed network of over a million CPUs to run evolutionary algorithms [Miikkulainen et al., 2019].
+
+The availability of orders of magnitude greater parallel computing resources in ten and twenty years’ time seems probable, whether through incremental advances with traditional silicon-based technology or via emerging, unconventional technologies such as bio-computing [Benenson, 2009] and molecular electronics [Xiang et al., 2016]. Such emerging technologies could make greatly vaster collections of computing devices feasible, albeit at the potential cost of component-wise speed [Bonnet et al., 2013; Ellenbogen and Love, 2000] and perhaps also component-wise reliability.
+🔗 What of Scale?
+
+Parallel and distributed computing has long been intertwined with digital evolution [Moreno and Ofria, 2020]. Practitioners typically proceed along the lines of the island model, where subpopulations evolve in parallel with intermittent exchange of individuals [Bennett III et al., 1999]. Similarly, in scientific contexts, absolute segregation is often enforced between parallel subpopulations to yield independent replicate datasets [Dolson and Ofria, 2017].
+
+These techniques can enable observation of rare events and provide statistical power to answer research questions. However, evolving subpopulations in parallel does not lend itself to large-scale study of interaction-driven phenomena such as
+
+    multicellularity,
+    sociality, and
+    ecologies.
+
+These topics are of interest in digital evolution and artificial life, particularly with respect to the issue of open-ended evolution. While by no means certain, it seems plausible that orders-of-magnitude increases in system scale will enable qualitatively different experimental possibilities [Moreno and Ofria, 2020].
+
+So, how can we exploit parallel computing power in digital evolution systems revolving around such interaction-driven phenomena? Addressing this question will be key both to enabling digital evolution to take full advantage of already-available contemporary computational resources and to positioning digital evolution to exploit vast computational resources that will likely become available in the not-too-distant future.
+
 Alife making trade-offs about reproducibiltiy/determinism, observability, etc. etc.
