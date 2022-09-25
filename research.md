@@ -1462,7 +1462,7 @@ Various approximation algorithms or heuristics fall into this category, with not
 Best-effort, real-time computing approaches have also been used in some artificial life models \citep{ray1995proposal}.
 Likewise, algorithms relying on pseudo-stochastic methods that tend to exploit noise (rather than destabilize due to it) also make good candidates \citep{chakrapani2008probabilistic,chakradhar2010best}.
 Real-time control systems that cannot afford to pause or retry, by necessity, fall into the best-effort category \citep{rahmati2011computing}.
-\dissertationonly{%
+\dissertationonly{ %
 For this dissertation we will, of course, focus on this latter case of systems well-suited to best-effort methods, as evolving systems already require noise to fuel variation.
 }
 
