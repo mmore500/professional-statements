@@ -1,0 +1,55 @@
+name: Build and Deploy
+
+on:
+  push:
+    branches: [ master ]
+  pull_request:
+    branches: [ master ]
+
+jobs:
+  build-and-deploy:
+    name: Build and Deploy
+    runs-on: ubuntu-22.04
+    permissions:
+      contents: write
+      id-token: write
+      pages: write
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - uses: actions/checkout@v3
+        with:
+          submodules: 'recursive'
+      - name: Install Nix
+        uses: cachix/install-nix-action@v20
+        with:
+          nix_path: nixpkgs=channel:nixos-unstable
+      - name: Create shell.nix
+        run: |
+          echo '{ pkgs ? import <nixpkgs> {} }:
+          let
+            replit-nix = import ./replit.nix { inherit pkgs; };
+          in
+          pkgs.mkShell {
+            buildInputs = replit-nix.deps;
+          }' > shell.nix
+      - name: Build PDFs
+        run: |
+          nix-shell --run "make"
+      - name: Prepare deploy directory
+        run: |
+          mkdir -p deploy
+          cp *.pdf deploy/
+          echo '<html><body><a href="dei.pdf">Download DEI Statement Draft [PDF]</a></body></html>' > deploy/index.html
+          echo '<html><body><a href="research.pdf">Download Research Statement Draft [PDF]</a></body></html>' >> deploy/index.html
+          echo '<html><body><a href="teaching.pdf">Download Teaching Statement Draft [PDF]</a></body></html>' >> deploy/index.html
+      - name: Upload artifact
+        uses: actions/upload-pages-artifact@v2
+        with:
+          path: deploy
+        if: github.ref == 'refs/heads/master'
+      - name: Deploy to GitHub Pages
+        id: deployment
+        uses: actions/deploy-pages@v2
+        if: github.ref == 'refs/heads/master'
