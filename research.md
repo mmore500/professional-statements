@@ -1,3 +1,10 @@
+Simulation-based research is increasingly vital to efforts to understand evolutionary processes and the underlying complex real-world problems like infectious disease, antibiotic resistance, cancer treatment, and conservation biology.
+However, key research questions involving rare evolutionary events and multi-population ecological interactions remain largely out of reach of existing simulation methods, owing to the immense computational power necessary to perform simulations at these scales.
+Emerging hardware accelerators like the 850,000-processor Cerebras Wafer-Scale Engine (WSE) and the 1,472-processor Graphcore Intelligence Processing Unit (IPU) have potential to unleash transformative scale-up of agent-based evolution simulations.
+However, these platforms also impose challenging constraints on available per-processor memory and device-to-host communication bandwidth. This critical methods gap has driven the development of new “DStream” data management algorithms by Postdoc Moreno and PI Zaman.
+Although developed for a highly specialized use case, DStream algorithms introduce novel capabilities applicable to a much broader class of “data stream” problems, which arise across numerous embedded and high-performance computing contexts. Undergraduate researcher Yang will lead software development to create public-facing, plug-and-play implementations of DStream algorithms targeting their generalized use case.
+This work will substantially expand the impact of the DStream project, as availability of reliable, user-friendly software implementations is a critical factor in driving adoption of novel methods by researchers.
+
 My current research interests stem directly from my undergraduate thesis and capstone work.
 \textbf{I am pursing a doctoral degree with Dr. Charles Ofria at BEACON}, an NSF Science and Technology Center for the Study of Evolution in Action at Michigan State University.
 BEACON offers access to \textbf{high performance computing resources} and a \textbf{uniquely interdisciplinary research community}.
