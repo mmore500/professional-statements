@@ -1,5 +1,6 @@
 { pkgs }: {
     deps = [
+      pkgs.bibtex-tidy
       pkgs.pandoc
       pkgs.texlive.combined.scheme-small
       pkgs.python39Packages.pip
