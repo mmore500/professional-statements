@@ -5,6 +5,52 @@ However, these platforms also impose challenging constraints on available per-pr
 Although developed for a highly specialized use case, DStream algorithms introduce novel capabilities applicable to a much broader class of “data stream” problems, which arise across numerous embedded and high-performance computing contexts. Undergraduate researcher Yang will lead software development to create public-facing, plug-and-play implementations of DStream algorithms targeting their generalized use case.
 This work will substantially expand the impact of the DStream project, as availability of reliable, user-friendly software implementations is a critical factor in driving adoption of novel methods by researchers.
 
+Agent-based evolutionary modeling enables exploration of the big-picture how and why behind incredible biological capability for adaptation, complexity, and novelty.
+This field of work, known as "digital evolution," knits interdisciplinary connections between computer science and evolutionary biology to design and study digital processes and structures that capture lifelike properties.
+Biologically-inspired techniques leveraging evolution as an algorithm can often produce good solutions to hard real-world problems.
+They also provide a useful model system to study difficult questions in evolutionary theory.
+
+My work focuses on understanding organisms' adaptation to the evolutionary process itself ("evolvability") and on developing methodology to simulate larger-scale digital artificial life systems, particularly with respect to high-performance computing and digital multicellularity.
+I am particularly passionate about bringing research into practice by building reusable software that advances the field.
+
+## Scaling Up Artificial Life Systems
+
+Studying how artificial evolutionary systems can continually produce novel artifacts of increasing complexity has proven to be a rich vein for practical, scientific, philosophical, and artistic innovations. Unfortunately, existing computational artificial life systems appear constrained by practical limitations on simulation scale.
+While by no means certain, the idea that orders-of-magnitude increases in compute power will open up qualitatively different possibilities with respect to open-ended evolution is well founded.
+
+Until fundamental changes to computing technology transpire, scaling up artificial life compute power will require taking advantage of parallel and distributed computing systems.
+Modern high-performance scientific computing clusters appear perhaps the best target to start down this path.
+
+Unlike most existing applications of distributed computing in digital evolution, open-ended evolution researchers must prioritize dynamic interactions among distributed simulation elements.
+Ecologies, co-evolutionary dynamics, and social behavior all necessitate such dynamic interactions.
+The question of how to design artificial life simulations and engineer artifical life software at scale will be paramount for the field.
+
+## Building Accessible, Extendable, and Maintainable Artificial Life Research Software
+
+Open source software supercharges the rate of scientific progress and the applied praxis of those advances.
+Interdisciplinary fields like artificial life, which thrive due to contributions from those without formal training in computing such as biologists and mathematicians, especially benefit from published applications and software packages.
+
+Open source devleopment of research software holds core priority within my work, with particular emphasis on maximizing its broader usefullness to the broader community outside of its original context.
+Teaching and mentorship also constitues a core aspect of this work, empowering researchers with development capabilities and promoting best practices in the community.
+I led the 2020 and 2021 Workshop for Avida-ED Software Development, which paired 27 early-career participants mentored 10 week hands-on projects, most related to writing, testing, and documenting software.
+I have also mentored five undergraduates on scientific software development projects.
+
+## Unverstainding Evolvability and Improving It in Digital Evolution Systems
+
+Successful evolutionary search depends on the production of meaningful phenotypic variation that can be inherited by offspring.
+Without useful heritable variation evolution stagnates.
+The concept of evolvability describes a population's capacity to generate useful heritable phenotypic variation is  of evolvability.
+Different evolving systems can exhibit different degrees of evolvability.
+
+Natural systems, in particular, are usually considered to have a capability to continuously generate interesting variation compared to computational
+systems.
+Understanding --- and replicating -- the evolvability of natural evolution is an open problem in computational evolution research.
+
+Evolvability is desirable in artificial evolution systems for practical ends -- more evolvable systems will help evolutionary algorithms to tackle sophisticated problems more effectively and efficiently.
+Understanding evolvability is of great scientific interest for both evolutionary biologists and evolutionary computing researchers, not only for optimization but also with respect to questions related to the evolution of complexity and open-ended evolution.
+
+## Etc.
+
 My current research interests stem directly from my undergraduate thesis and capstone work.
 \textbf{I am pursing a doctoral degree with Dr. Charles Ofria at BEACON}, an NSF Science and Technology Center for the Study of Evolution in Action at Michigan State University.
 BEACON offers access to \textbf{high performance computing resources} and a \textbf{uniquely interdisciplinary research community}.
