@@ -52,75 +52,75 @@ Understanding evolvability is of great scientific interest for both evolutionary
 ## Etc.
 
 My current research interests stem directly from my undergraduate thesis and capstone work.
-\textbf{I am pursing a doctoral degree with Dr. Charles Ofria at BEACON}, an NSF Science and Technology Center for the Study of Evolution in Action at Michigan State University.
-BEACON offers access to \textbf{high performance computing resources} and a \textbf{uniquely interdisciplinary research community}.
+{I am pursing a doctoral degree with Dr. Charles Ofria at BEACON}, an NSF Science and Technology Center for the Study of Evolution in Action at Michigan State University.
+BEACON offers access to {high performance computing resources} and a {uniquely interdisciplinary research community}.
 Working with biologists on \textit{in vivo} work and with evolutionary computing practitioners will allow me to apply novel biological concepts to evolutionary computing.
 In particular, I am interested in understanding what critical nuances are missing from simple algorithmic implementations of evolution built on bare bones selection, variation, and inheritance.
-My specific focus is on \textbf{evolvability and environmental influence on the phenotype}.
+My specific focus is on {evolvability and environmental influence on the phenotype}.
 Understanding the relationship between these phenomena will help biologists answer questions about the evolution of complex traits like human intelligence and will help evolutionary computing researchers develop powerful applied evolution techniques to solve practical problems like automating deep learning architecture design.
 
-By probing the algorithmic principles of biology, I hope to contribute to the \textbf{development of more capable, versatile AI systems} with direct human impact.
+By probing the algorithmic principles of biology, I hope to contribute to the {development of more capable, versatile AI systems} with direct human impact.
 I am inspired by my father, who volunteers for Dial-A-Bus to serve individuals whose disabilities would otherwise limit their ability to fully participate in the community.
 I hope that, through applications that counteract disability and free us from dangerous or simply menial tasks, stronger AI will enable people to more fully exercise their human capabilities.
 My work with the Swarm lab, with Dr. Chambers, and in the Ofria lab helps lay the groundwork for this future.
 I will leverage my outreach skills build industrial collaborations that apply my research to real-world AI problems.
 
-I am committed to \textbf{continuing to foster community among scientists and perform STEM outreach}.
+I am committed to {continuing to foster community among scientists and perform STEM outreach}.
 I currently volunteer four hours a week as a teacher's assistant in special and general education classrooms in East Lansing.
 In my fourth period classroom, my work is specially targeted at engaging minority students.
 As I progress in my graduate studies, I look forward to welcoming new graduate students and taking advantage of BEACON funding support to mentor undergraduates on summer research projects.
 
 Ultimately, I aspire to lead an academic research group and build an inclusive community that will allow myself and others to accomplish our outreach, technological, and scientific goals.
-GRFP support will help me conduct \textbf{cutting-edge research at the intersection of biology and computer science} and lead in the conversation about the \textbf{intrinsic value of outreach, mentorship, and community in science}.
+GRFP support will help me conduct {cutting-edge research at the intersection of biology and computer science} and lead in the conversation about the {intrinsic value of outreach, mentorship, and community in science}.
 Footer
 
 \noindent
-\underline{\smash{\textit{\textbf{Research History}}}}
-I began gaining research experience as a high school student through an \textbf{Apprenticeships in Science program} at Oregon State University.
+\underline{\smash{\textit{{Research History}}}}
+I began gaining research experience as a high school student through an {Apprenticeships in Science program} at Oregon State University.
 I worked with Dr. John Folwer to investigate the exocyst protein complex in plants.
 Using genetic assays and phenotypic measurements, I screened 25 populations of \textit{Arabadopsis thaliana} for synergistic interactions between a known exocyst mutation and a mildly deleterious mutation at an independently-assorting locus.
 The group went on to isolate a novel Golgi-localized protein confirmed to interact with the exocyst \cite{fowler}.
 I took away a strong impression of what a friendly, supportive, and inclusive scientific community looks like.
 This personal experience with STEM outreach motivates my desire to make similar opportunities available to others.
 
-As an undergraduate, I worked at the interface of science and industry at the \textbf{USDA small fruits breeding laboratory}.
+As an undergraduate, I worked at the interface of science and industry at the {USDA small fruits breeding laboratory}.
 I spent two summers working full time with Dr. Chad Finn to develop berry cultivars for the fresh fruit and processed food markets.
 Achieving widespread production of our cultivars requires buy-in from our partner growers.
 To build these relationships, we hosted regular symposiums with brief and actionable presentations on best practices and actively involved growers in our scientific experiments.
-I gained further experience making connections between the real word and science through three bouts in the \textbf{Mathematical Competition in Modeling} (MCM).
+I gained further experience making connections between the real word and science through three bouts in the {Mathematical Competition in Modeling} (MCM).
 These four-day sprints emphasize pitching insights gained by developing and analyzing mathematical models to business executives and policy makers.
 In 2017, my three-person team developed a model of highway traffic in the greater Seattle area and showed that in the near future designating lanes exclusively for autonomous vehicles will reduce commuter travel delays.
-We \textbf{ranked among the top 11 of over 1,500 participating teams}.
+We {ranked among the top 11 of over 1,500 participating teams}.
 I will continue to use my experience  building collaborative partnerships and gearing science toward a professional audience to translate my research into real-world innovations.
 
-As a sophomore, I built my computational skill set \textbf{developing methods for automated isolation of mouse
+As a sophomore, I built my computational skill set {developing methods for automated isolation of mouse
 ultrasonic vocalizations (USVs) from noisy recordings} with Dr. Adam Smith at University of Puget Sound (UPS).
-I sought outside funding and was \textbf{awarded a NASA space grant of \$3,250} through a competitive application process.
+I sought outside funding and was {awarded a NASA space grant of \$3,250} through a competitive application process.
 USVs are an important quantitative assay for the affective and social state of mice in biomedical research, but existing software tools were readily confounded by background noise.
 I developed and tested filtering algorithms inspired by the Sobel Edge detection method that use human-annotated spectrograms to learn to distinguish between true mouse vocalization signals and background noise.
 My approach achieved 75\% accuracy at 25\% recall from noisy recordings.
 I presented these results at the 2015 UPS summer research symposium \cite{smith}.
 From this experience, I gained computational research skills including data management, version control, and visualization techniques.
 
-I brought my biological and computational interests together studying ant foraging behavior at the \textbf{NJIT Swarm lab} in the summer after my junior year.
+I brought my biological and computational interests together studying ant foraging behavior at the {NJIT Swarm lab} in the summer after my junior year.
 I was recruited by Drs. Simon Garnier and Jason Graham through the Mathematical Biosciences Institute REU.
 For ants on flat terrain, the shortest-distance foraging path, the most energy-efficient foraging path, and the quickest foraging path are all identical.
 However, on uneven terrain an obstacle may make the most direct path take longer than a trip that circumvents it.
 In the absence of an absolute ``best'' path, the question of how ants make trade-offs is of great interest to biologists and engineers studying swarm robotics.
 Thus, I extended computational models of ant foraging to consider uneven terrains.
 My differential-equations based model predicts that severe inclines cause ants to favor a more direct, less variable foraging path.
-I presented my work at the \textbf{2017 Joint Mathematics Meetings} \cite{jmm}.
+I presented my work at the {2017 Joint Mathematics Meetings} \cite{jmm}.
 During my time at the Swarm lab, I was empowered by the autonomy entrusted to me and found the opportunity to answer open biological questions with practical applications rewarding.
 After this REU, I saw graduate school as the best way to continue engaging in such self-directed, impactful work.
 
-For my \textbf{senior thesis project} at UPS, I worked with Dr. America Chambers to synthesize a conceptual framework for evolvability, the potential for adaptive change to occur in an organism's descendants.
+For my {senior thesis project} at UPS, I worked with Dr. America Chambers to synthesize a conceptual framework for evolvability, the potential for adaptive change to occur in an organism's descendants.
 Evolvability has been connected to a wide array of causal factors ranging from gene duplication to phenotypic plasticity.
 I organized this constellation of causal factors into three larger classes and analyzed their broad relationships \cite{thesis}.
-Building off my thesis, I conducted a \textbf{capstone project} to empirically investigate how environmental influence on the phenotype relates to evolvability in a gene-regulatory network model.
+Building off my thesis, I conducted a {capstone project} to empirically investigate how environmental influence on the phenotype relates to evolvability in a gene-regulatory network model.
 I found that populations subjected to stochastic perturbations during the development process evolved a higher incidence of silent mutation.
 Further, populations pressured to respond to environmental signals by activating alternate developmental pathways were more sensitive to mutation.
 I presented my findings at the 2016 NW Honors Symposium, two campus seminars, and the 2017 NSF BEACON Congress \cite{beacon}.
-For my thesis and capstone work, I received the \textbf{MacArthur Award for an Outstanding Thesis Presentation} and the \textbf{Goman Outstanding Math/CS Senior Award}.
+For my thesis and capstone work, I received the {MacArthur Award for an Outstanding Thesis Presentation} and the {Goman Outstanding Math/CS Senior Award}.
 This fall, I have published my thesis work as an illustrated blog series aimed at both the general public and other scientists.
 Uniting experiments and theory in my thesis and capstone projects was extremely rewarding;
 this work inspired me to continue conducting research that tightly couples these domains.
@@ -340,13 +340,6 @@ In this work, we add a fifth SignalGP instance to the DISHTINY cell.
 This instance can execute special instructions to establish long-distance interconnects with other cells and engage in resource-sharing and/or message passing with those cells.
 [Figure AOSHW](#fig-aoshw) summarizes how SignalGP hardware is arranged within DISHTINY cells.
 
-![Arrangement of SignalGP hardware within DISHTINY cells](/resources/practical-scalability-1.png){:style="width: 100%; max-width: 500px; margin-left: auto; margin-right: auto; display: block;"}
-[**Figure AOSHW:**](#fig-aoshw){:id="fig-aoshw"}
-_Arrangement of SignalGP hardware within DISHTINY cells (gray squares).
-Neighbor-managing hardware (circles) receive stimuli and control cell behavior with respect to a particular cell neighbor.
-Network-managing hardware (interior squares) receive stimuli and control cell
-behavior with respect to more distant neighbors a cell has established interconnects with._
-
 Long-distance interconnects are established through a developmental process, summarized in [Figure IOTDP](#fig-iotdp).
 The process begins with the placement of two independent search prongs at the originating cell.
 Each prong performs a random walk over the originating cell's kin group, accumulating positive or negative feedback based on tags expressed by underfoot cells.
@@ -357,11 +350,6 @@ Established interconnects may be subsequently removed by either participating ce
 
 Full details on hardware-level instructions and event-driven environmental cues available to cells are provided in Supplementary Sections D, E, F, and G [[Moreno and Ofria, 2020]](#Moreno_Ofria_2020).
 
-![Illustration of the developmental processe used to establish long-distance interconnects](/resources/practical-scalability-2.png){:width="100%"}
-[**Figure IOTDP:**](#fig-iotdp){:id="fig-iotdp"}
-_Illustration of the developmental process used to establish long-distance interconnects.
-Cells start by budding developmental search prongs (a) that perform a random search (b), reverting to the most successful search (c) where it matures to establish a connection (d).
-Messages and resources can be transmitted over a connection (e) until either cell decides to terminate the connection (f). You can see this developmental process in action in an evolved strain at [`https://mmore500.com/hopto/ap`](https://mmore500.com/hopto/ap)._
 
 ### Evolutionary Screens
 
@@ -384,35 +372,6 @@ In this web viewer, wild-type strains carry phylogentic root ID 1 and knockout s
 We implemented our experimental system using the Empirical library for scientific software development in C++, available at [`https://github.com/devosoft/Empirical`](https://github.com/devosoft/Empirical) [[Ofria et al., 2019]](#charles_ofria_2019_2575607).
 We used OpenMP to parallelize our main evolutionary replicates, distributing work over two threads.
 The code used to perform and analyze our experiments, our figures, data from our experiments, and a live in-browser demo of our system is available via the Open Science Framework at [`https://osf.io/53vgh/`](https://osf.io/53vgh/) [[Foster and Deardorff, 2017]](#foster2017open).
-
-## Case Study: Interconnect Resource Sharing
-
-![](/resources/practical-scalability-3a.png){:style="width: 100%;"}
-_(a) Hypothesized resource-recruiting mechanism_
-
-![](/resources/practical-scalability-3b.png){:style="width: 100%; max-width: 250px; margin-left: auto; margin-right: auto; display: block;"}
-_(b) Kin groups_
-
-![](/resources/practical-scalability-3c.png){:style="width: 100%; max-width: 250px; margin-left: auto; margin-right: auto; display: block;"}
-_(c) Established interconnects_
-
-![](/resources/practical-scalability-3d.png){:style="width: 100%; max-width: 250px; margin-left: auto; margin-right: auto; display: block;"}
-_(d) Spatial distribution of resource-sending cells_
-
-![](/resources/practical-scalability-3e.png){:style="width: 100%; max-width: 250px; margin-left: auto; margin-right: auto; display: block;"}
-_(e) Spatial distribution of resource-receiving cells_
-
-[**Figure B42CS:**](#fig-b42cs){:id="fig-b42cs"}
-_Batch 42 case study overview.
-Figures 3b through 3e are generated from a snapshot of a wild-type strain monoculture population.
-In these images, each grid tile represents an individual cell.
-Cells are organized into kin groups, color-coded by hue in Figure B42CS(b).
-Established interconnects are overlaid in blue on Figure B42CS(c).
-In Figures B42CS(d) and B42CS(e), kin groups are outlined in black.
-Figure B42CS(d) highlights cells that are sending resource over-interconnect.
-Figure B42CS(e) highlights cells that are receiving resource over-interconnect.
-You can view an animation of the wild-type monoculutre at [`https://mmore500.com/hopto/ao`](https://mmore500.com/hopto/ao)._
-
 
 This case study was drawn from epoch 24 of batch 42 of the initial set of evolutionary runs.
 We initially considered it for further study due to the presence of widespread over-interconnect resource sharing.
@@ -448,21 +407,6 @@ Finally, we confirmed the soundness of our fitness competition methodology by ru
 As expected, we observed no effect of strain ID on competition dominance (8/16 knockout strain extinctions; 8/16 wild-type strain extinctions; one-tailed binomial test; $$p = 0.60$$; 1738 S.D. 217 cell gens elapsed; [`https://mmore500.com/hopto/aj`](https://mmore500.com/hopto/aj)).
 
 ## Case Study: Interconnect Messaging
-
-![](/resources/practical-scalability-4a.png){:style="width: 100%;"}
-_(a) Hypothesized selective reproduction pausing mechanism_
-
-![](/resources/practical-scalability-4b.png){:style="width: 100%; max-width: 250px; margin-left: auto; margin-right: auto; display: block;"}
-_(b) Kin groups_
-
-![](/resources/practical-scalability-4c.png){:style="width: 100%; max-width: 250px; margin-left: auto; margin-right: auto; display: block;"}
-_(c) Established interconnects_
-
-![](/resources/practical-scalability-4d.png){:style="width: 100%; max-width: 250px; margin-left: auto; margin-right: auto; display: block;"}
-_(d) Spatial distribution of stimulus 5_
-
-![](/resources/practical-scalability-4e.png){:style="width: 100%; max-width: 250px; margin-left: auto; margin-right: auto; display: block;"}
-_(e) Spatial distribution of module 14 execution_
 
 [**Figure B32CS:**](#fig-b32cs){:id="fig-b32cs"}
 _Batch 32 case study overview.
@@ -774,10 +718,6 @@ Similar analysis concludes an equivalent result in the two-dimensional case.
 Once more, we will work with a mesh of $$n$$ physical hardware nodes corresponding to a graph $$N$$ where $$V(N)$$ represents computational nodes and $$E(N)$$ represents physical interconnects between nodes.
 In this case, in addition to physical interconnects between spatially adjacent nodes we will assume a system of hierarchical physical interconnects that allows log-hop traversal between nodes.
 
-![Example construction of an ideal space-filling tree over a computational mesh](/resources/practical-scalability-5.png){:width="100%"}
-[**Figure ECOAI:**](#fig-ecoai){:id="fig-ecoai"}
-_Example construction of an ideal space-filling tree over a computational mesh._
-
 Suppose we have a small-world graph $$G$$ with maximum vertex degree bounded by a finite constant $$m$$.
 The vertices of this graph $$G$$ are embedded one-to-one on $$N$$ such that $$|V(G)| = |V(N)|$$.
 We will specifically construct this graph as an ideal space-filling tree.
@@ -912,10 +852,6 @@ We proceed to construct a small world directed graph $$G$$ using the set of node
 In formal terms, a bijective relationship $$f: V(N) \rightarrow V(G)$$ unites these two sets.
 The inverse mapping, $$f^{-1}: V(G) \rightarrow V(N)$$, is also bijective.
 
-![Relationship between a computational mesh N and a small-world interaction network G constructed over N](/resources/practical-scalability-6.png){:width="100%"}
-[**Figure RBACM:**](#fig-rbacm){:id="fig-rbacm"}
-_Relationship between a computational mesh $$N$$ and a small-world interaction network $$G$$ constructed over $$N$$._
-
 Edges in the graph $$G$$ do not represent a physical interconnect.
 Instead, edges $$\{\hat{a}, \hat{b}\} \in E(G)$$ represent a close-coordination relationship where node $$\hat{a}$$ frequently interacts with (i.e., dispatches messages to) the destination node $$\hat{b}$$.
 [Figure RBACM](#fig-rbacm) illustrates the relationship between $$N$$ and $$G$$.
@@ -1008,8 +944,6 @@ We believe that open-ended model systems built on contemporary distributed compu
 I would love to hear your thoughts on scaling artificial life simulations and studying major transitions in evolution!!
 
 I started a twitter thread (right below) so we can chat :phone: :phone: :phone:
-
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">nothing to see here, just a placeholder tweet 🐦</p>&mdash; Matthew A Moreno (@MorenoMatthewA) <a href="https://twitter.com/MorenoMatthewA/status/1054071480512843776?ref_src=twsrc%5Etfw">October 21, 2018</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 Pop on there and drop me a line :fishing_pole_and_fish: or make a comment :raising_hand_woman:
 
@@ -1431,16 +1365,16 @@ Any opinions, findings, and conclusions or recommendations expressed in this mat
 \section{Introduction}
 \label{sec:introoduction;ch:conduit}
 
-The parallel and distributed processing capacity of high-performance computing (HPC) clusters continues to grow rapidly and enable profound scientific and industrial innovations \citep{gagliardi2019international}.
+The parallel and distributed processing capacity of high-performance computing (HPC) clusters continues to grow rapidly and enable profound scientific and industrial innovations citep{gagliardi2019international}.
 These advances in hardware capacity and economy afford great opportunity, but also pose a serious challenge: developing approaches to effectively harness it.
-As HPC systems scale, it becomes increasingly difficult to write software that makes efficient use of available hardware and also provides reproducibile results (or even near-perfectly reproducible results --- i.e., up to effects from floating point non-transitivity) consistent with models of computation as being performed a reliable digital machine \citep{heroux2014toward}.
+As HPC systems scale, it becomes increasingly difficult to write software that makes efficient use of available hardware and also provides reproducibile results (or even near-perfectly reproducible results --- i.e., up to effects from floating point non-transitivity) consistent with models of computation as being performed a reliable digital machine citep{heroux2014toward}.
 
-The bulk synchronous parallel (BSP) model, which is prevalent among HPC applications \citep{dongarra2014applied}, illustrates the challenge.
+The bulk synchronous parallel (BSP) model, which is prevalent among HPC applications citep{dongarra2014applied}, illustrates the challenge.
 This model segments fragments of computation into sequential global supersteps, with fragments at superstep $i$ depending only on data from strictly preceding fragments $<i$, often just $i-1$.
 Computational fragments are assigned across a pool of available processing components.
 The BSP model assumes perfectly reliable messaging: all dispatched messages between computational fragments are faithfully delivered.
 In practice, realizing this assumption introduces overhead costs: secondary acknowledgement messages to confirm delivery and mechanisms to dispatch potential resends as the need arises.
-Global synchronization occurs between supersteps, with computational fragments held until their preceding superstep has completed \citep{valiant1990bridging}.
+Global synchronization occurs between supersteps, with computational fragments held until their preceding superstep has completed citep{valiant1990bridging}.
 This ensures that computational fragments will have at hand every single expected input, including those required from fragments located on other processing elements, before proceeding.
 So, supersteps only turn over once the entire pool of processing components have completed their work for that superstep.
 Put another way, all processing components stall until the most laggardly component catches up.
@@ -1448,76 +1382,73 @@ In a game of double dutch with several jumpers, this would be like slowing the t
 
 Heterogeneous computational fragments, with some quick to process and others much slower, would result in poor efficiency under a naive approach where each processing element handled just one fragment.
 Some processing elements with easy tasks would finish early then idle while more difficult tasks carry on.
-To counteract such load imbalances, programmers can allow for ``parllel slack'' by ensuring computational fragments greatly outnumber processing elements or even performing dynamic load balancing at runtime \citep{valiant1990bridging}.
+To counteract such load imbalances, programmers can allow for ``parllel slack'' by ensuring computational fragments greatly outnumber processing elements or even performing dynamic load balancing at runtime citep{valiant1990bridging}.
 
-Unfortunately, hardware factors on the underlying processing elements ensure that inherent global superstep jitter will persist: memory access time varies due to cache effects, message delivery time varies due to network conditions, extra processing due to error detection and recovery, delays due to unfavorable process scheduilng by the operating system, etc. \citep{dongarra2014applied}.
-Power management concerns on future machines will likely introduce even more variability \citep{gropp2013programming}.
+Unfortunately, hardware factors on the underlying processing elements ensure that inherent global superstep jitter will persist: memory access time varies due to cache effects, message delivery time varies due to network conditions, extra processing due to error detection and recovery, delays due to unfavorable process scheduilng by the operating system, etc. citep{dongarra2014applied}.
+Power management concerns on future machines will likely introduce even more variability citep{gropp2013programming}.
 Worse yet, as we work with more and more processes, the expected magnitude of the worst-sampled jitter grows and grows --- and in lockstep with it, our expected superstep duration.
 In the double dutch analogy, with enough jumpers, at almost every turn of the rope someone will need to stop and tie their shoe.
 The global synchronization operations underpinning the BSP model further hinder its scalability.
-Irrespective of time to complete computational fragments within a superstep, the cost of performing a global synchronization operation increases with processor count \citep{dongarra2014applied}.
+Irrespective of time to complete computational fragments within a superstep, the cost of performing a global synchronization operation increases with processor count citep{dongarra2014applied}.
 
 Efforts to recover scalability by relaxing superstep synchronization fall under two banners.
-The first approach, termed ``Relaxed Bulk-Synchronous Programming'' (rBSP), hides latency by performing collective operations asynchronously, essentialy allowing useful computation to be performed at the same time as synchronization primitives for a single superstep percolate through the collective \citep{heroux2014toward}.
+The first approach, termed ``Relaxed Bulk-Synchronous Programming'' (rBSP), hides latency by performing collective operations asynchronously, essentialy allowing useful computation to be performed at the same time as synchronization primitives for a single superstep percolate through the collective citep{heroux2014toward}.
 So, the time cost required to perform that synchronization can be discounted, up to the time taken up by computational work at one superstep.
 Likewise, individual processes experiencing heavier workloads or performance degradation due to hardware factors can fall behind by up to a single superstep without slowing the entire colelctive.
 However, this approach cannot mask synchronization costs or cumulative performance degradation exceeding a single superstep's duration.
-The second approach, termed relaxed barrier synchronization, forgoes global synchronization entirely \citep{kim1998relaxed}.
+The second approach, termed relaxed barrier synchronization, forgoes global synchronization entirely citep{kim1998relaxed}.
 Instead, computational fragments at superstep $i$ only wait on expected inputs from the subset of superstep $i-1$ fragments that they directly interact with.
 Imagine a double-dutch routine where each jumper exchanges patty cakes with both neighboring jumpers at every turn of the rope.
 Relaxed barrier synchronization would dispense entirely with the rope.
 Instead, players would be free to proceed to their next round of patty cakes as soon as they had successfully patty-caked both neighbors.
 With $n$ players, player 0 could conceivably advance $n$ rounds ahead of player $n-1$ (each player would be one round ahead of their right neighbor).
-Assuming fragment interactions form a graph structure that persists across supersteps, in the general case before causing the entire collective to slow an individual fragment can fall behind at most a number of supersteps equal to the graph diameter \citep{gamell2015local}.
+Assuming fragment interactions form a graph structure that persists across supersteps, in the general case before causing the entire collective to slow an individual fragment can fall behind at most a number of supersteps equal to the graph diameter citep{gamell2015local}.
 Even though this approach can shield the collective from most one-off performance degradations of a single fragment (especially in large-diameter cases), persistently laggard hardware or extreme one-off degradations will ultimately still hobble efficiency.
-Dynamic task scheduling and migration aim to address this shortcoming, redistributing work in order to ``catch up'' delinquent fragments \citep{acun2014parallel}.
+Dynamic task scheduling and migration aim to address this shortcoming, redistributing work in order to ``catch up'' delinquent fragments citep{acun2014parallel}.
 With our double-dutch analogy, we could think of this something like a team coach temporarily benching a jumper who skinned their knee and instructing the other jumpers to pick up their roles in the routine.
 
 In addition to concerns over efficiency, resiliency poses another existential problem to massive HPC systems.
 In small scales, it can suffice to assume that such failures occur negligibly, with any that do transpire likely to cause an (acceptably rare) global interruption or failure.
-At large scales, however, software crashes and hardware failures become the rule rather than the exception \citep{dongarra2014applied} --- running a simulation to completion could even require so many retries as to be practically infeasible.
-A typical contemporary approach to imporove resiliency is checkpointing: the sytem periodically records global state then, when a failure arises, progress is rolled back to the most recent global known-good state and runtime restarts \citep{hursey2007design}.
+At large scales, however, software crashes and hardware failures become the rule rather than the exception citep{dongarra2014applied} --- running a simulation to completion could even require so many retries as to be practically infeasible.
+A typical contemporary approach to imporove resiliency is checkpointing: the sytem periodically records global state then, when a failure arises, progress is rolled back to the most recent global known-good state and runtime restarts citep{hursey2007design}.
 Global checkpoint-based recovery is expensive, especially at scale due to overhead associated with regularly recording global state, losing progress since the most recent checkpoint, and actually performing a global teardown and restart procedure.
-In fact, at large enough scales global recovery durations could conceivably exceed mean time between failures, making any forward simulation progress all but impossible \citep{dongorra2014applied}.
-The local failure, local recovery (LFLR) paradigm eschews global recovery by maintaining persistent state on a process-wise basis and providing a recovery function to initialize a step-in replacement process \citep{heroux2014toward,teranishi2014toward}.
-In practice, such an approach can require keeping running logs of all messaging traffic in order to replay them for the benefit of any potential step-in replacement \citep{chakravorty2004fault}.
+In fact, at large enough scales global recovery durations could conceivably exceed mean time between failures, making any forward simulation progress all but impossible citep{dongorra2014applied}.
+The local failure, local recovery (LFLR) paradigm eschews global recovery by maintaining persistent state on a process-wise basis and providing a recovery function to initialize a step-in replacement process citep{heroux2014toward,teranishi2014toward}.
+In practice, such an approach can require keeping running logs of all messaging traffic in order to replay them for the benefit of any potential step-in replacement citep{chakravorty2004fault}.
 Returning once more to the double dutch analogy, LFLR would transpire as something like a handful teammates pulling a stricken teammate aside to catch them up after an amnesia attack (rather than starting the entire team's routine back at the top of the current track).
 The intervening jumpers would have to remind the stricken teammate of a previously recorded position then discreetly re-feigning some of their moves that the stricken teammate had cued off between that recorded position and the amnesia episode.
 
 The possibility of multiple simultaneous failure (perhaps, for example, of dozens of processes resident on a single node) poses an even more difficult, although not insurmountable, challenge for LFLR that would likely necessitate even greater overhead.
 On approach involves pairing up with a remote ``buddy'' process to hang on to a process' snapshots to be carbon-copied on all of that process' messages in order to ensure an independently survivable log.
-Unfortunately, this could potentialy forwarding all messaging traffic between simulation elements coresident on the focal process to its buddy, dragging inter-node communication into some otherwise trivial simulation operations \citep{chakravorty2007fault}.
-Efforts to ensure resiliency beyond single-node failures currently appear unnecessary \citep[p. 12]{ni2016mitigation}.
-Even though LFLR saves the cost of global spin-down and spin-up, all processes will potentially have to wait for work lost since the last checkpoint to be recompleted, although in some cases this could be helped along by tapping idle hardware to take over delinquent work from the failed process and help catch it up \citep{dongarra2014applied}.
+Unfortunately, this could potentialy forwarding all messaging traffic between simulation elements coresident on the focal process to its buddy, dragging inter-node communication into some otherwise trivial simulation operations citep{chakravorty2007fault}.
+Efforts to ensure resiliency beyond single-node failures currently appear unnecessary citep[p. 12]{ni2016mitigation}.
+Even though LFLR saves the cost of global spin-down and spin-up, all processes will potentially have to wait for work lost since the last checkpoint to be recompleted, although in some cases this could be helped along by tapping idle hardware to take over delinquent work from the failed process and help catch it up citep{dongarra2014applied}.
 
-Still more insidious to the reliable digital machine model, though, are soft errors --- events where corruption of data in memory occurs, usually do to environmental interferience (i.e., ``cosmic rays'') \citep{karnik2004characterization}.
-Further miniaturization and voltage reduction, which are assumed as a likely vehicle for continuing advances in hardware efficiency and performance, could conceivably  worsen susceptibility to such errors \citep{dongarra2014applied,kajmakovic2020challenges}.
+Still more insidious to the reliable digital machine model, though, are soft errors --- events where corruption of data in memory occurs, usually do to environmental interferience (i.e., ``cosmic rays'') citep{karnik2004characterization}.
+Further miniaturization and voltage reduction, which are assumed as a likely vehicle for continuing advances in hardware efficiency and performance, could conceivably  worsen susceptibility to such errors citep{dongarra2014applied,kajmakovic2020challenges}.
 What makes soft errors so dangerous is their potential indetectability.
 Unlike typical hardware or software failures, which explicitly result in an explicit, observable outcome (i.e., an error code, an exception, or even just a crash), soft errors can transpire silently and lead to incorrect computational results without leaving anyone the wiser.
 Luckily, soft errors they occur rarely enough to be largely negelcted in most single-processor applications (except the most safety-critical settings); however, at scale soft errors occur at a non-trivial rate
-\citep{sridharan2015memory,scoles2018cosmic}.
-Redundancy (be it duplicated hardware components or error correction codes) can reduce the rate of uncorrected (or at least undetected) soft errors, although at a non-trivial cost \citep{vankeirsbilck2015soft,sridharan2015memory}.
-In some application domains with symmetries or conservation principles the rate of soft errors (or, at least, silent soft errors) could be also reduced through so-called ``skeptical'' assertions at runtime \citep{dongorra2014applied}, although this too comes at a cost.
+citep{sridharan2015memory,scoles2018cosmic}.
+Redundancy (be it duplicated hardware components or error correction codes) can reduce the rate of uncorrected (or at least undetected) soft errors, although at a non-trivial cost citep{vankeirsbilck2015soft,sridharan2015memory}.
+In some application domains with symmetries or conservation principles the rate of soft errors (or, at least, silent soft errors) could be also reduced through so-called ``skeptical'' assertions at runtime citep{dongorra2014applied}, although this too comes at a cost.
 
-Even if soft errors can be effectively eradicated --- or at least suppressed to a point of inconsequentiality --- the nondeterministic mechanics of fault recovery and dynamic task scheduling could conceivably make guaranteeing bitwise reprodicibility at exascale effectively impossible, or at least an unreasonable engineering choice \citep{dongarra2014applied}.
-However, the assumption of the reliable digital machine model results remains near-universal within parallel and distributed algorithm design \citep{chakradhar2010best}.
+Even if soft errors can be effectively eradicated --- or at least suppressed to a point of inconsequentiality --- the nondeterministic mechanics of fault recovery and dynamic task scheduling could conceivably make guaranteeing bitwise reprodicibility at exascale effectively impossible, or at least an unreasonable engineering choice citep{dongarra2014applied}.
+However, the assumption of the reliable digital machine model results remains near-universal within parallel and distributed algorithm design citep{chakradhar2010best}.
 Be it costly or simply a practical impossibility, the worsening burden of synchronization, fault recovery, and error correction begs the question of whether it is viable to maintain, or even to strive to maintain, the reliabile digital machine model at scale.
-Indeed, software and hardware that relaxes guarantees of correctness and determinism --- a so-called ``best-effort model'' --- have been shown to improve speed \citep{chakrapani2008probabilistic}, energy efficiency \citep{chakrapani2008probabilistic,bocquet2018memory}, and scalability \citep{meng2009best}.
+Indeed, software and hardware that relaxes guarantees of correctness and determinism --- a so-called ``best-effort model'' --- have been shown to improve speed citep{chakrapani2008probabilistic}, energy efficiency citep{chakrapani2008probabilistic,bocquet2018memory}, and scalability citep{meng2009best}.
 As technology advances, computing is becoming more distributed and we are colliding with physical limits for speed and reliability.
-%Theoretical exploration of constraints distributed systems will face at the asymptote of technological (and even physical) constraints, performed under the banner of ``indefinite scalability'' in \citep{ackley2011pursue}, highlights an essential role --- at large enough scales, essentially a design inevitability --- for best-effort methods.
+%Theoretical exploration of constraints distributed systems will face at the asymptote of technological (and even physical) constraints, performed under the banner of ``indefinite scalability'' in citep{ackley2011pursue}, highlights an essential role --- at large enough scales, essentially a design inevitability --- for best-effort methods.
 %Specifically, this theory finds as necessary asynchronous operation and graceful degradation under hardware failure (in addition to decentralized networking and interchangeable hardware components).
-Massively distributed systems are becominging inevitable, and indeed if we are to truly achieve ``indefinite scalability'' \citep{ackley2011pursue} we must shift from guaranteed acuracy to best-effort methods that operate asynchronously and degrade gracefully under hardware failue.
+Massively distributed systems are becominging inevitable, and indeed if we are to truly achieve ``indefinite scalability'' citep{ackley2011pursue} we must shift from guaranteed acuracy to best-effort methods that operate asynchronously and degrade gracefully under hardware failue.
 
 The suitability of the best-effort model varies from application to application.
-Some domains are clear cut in favor of the reliable digital machine model --- for example, due to regulatory issues \citep{dengorra2014applied}.
-However, a subset of HPC applications can tolerate --- or even harness --- occasionally flawed or even fundamentally nondeterministic computation \citep{chakradhar2010best}.
-Various approximation algorithms or heuristics fall into this category, with notable work being done on best-effort stochastic gradient descent for artificial neural network applications \citep{dean2012large,zhao2019elastic,niu2011hogwild,noel2014dogwild}.
-Best-effort, real-time computing approaches have also been used in some artificial life models \citep{ray1995proposal}.
-Likewise, algorithms relying on pseudo-stochastic methods that tend to exploit noise (rather than destabilize due to it) also make good candidates \citep{chakrapani2008probabilistic,chakradhar2010best}.
-Real-time control systems that cannot afford to pause or retry, by necessity, fall into the best-effort category \citep{rahmati2011computing}.
-\dissertationonly{ %
-For this dissertation we will, of course, focus on this latter case of systems well-suited to best-effort methods, as evolving systems already require noise to fuel variation.
-}
+Some domains are clear cut in favor of the reliable digital machine model --- for example, due to regulatory issues citep{dengorra2014applied}.
+However, a subset of HPC applications can tolerate --- or even harness --- occasionally flawed or even fundamentally nondeterministic computation citep{chakradhar2010best}.
+Various approximation algorithms or heuristics fall into this category, with notable work being done on best-effort stochastic gradient descent for artificial neural network applications citep{dean2012large,zhao2019elastic,niu2011hogwild,noel2014dogwild}.
+Best-effort, real-time computing approaches have also been used in some artificial life models citep{ray1995proposal}.
+Likewise, algorithms relying on pseudo-stochastic methods that tend to exploit noise (rather than destabilize due to it) also make good candidates citep{chakrapani2008probabilistic,chakradhar2010best}.
+Real-time control systems that cannot afford to pause or retry, by necessity, fall into the best-effort category citep{rahmati2011computing}.
 
 This work distills best-effort communication from the larger issue of best-effort computing, paying it special attention and generally pretermiting the larger issue.
 Specifically, we investigate the implications of relaxing synchronization and message delivery requirements.
@@ -1526,51 +1457,42 @@ Instead, processes continue their compute work unimpeded and incorporate communi
 We still assume that messages, if and when they are delivered, retain contentual integrity.
 We see best-effort communication as a particularly fruitful target for investigation.
 Firstly, synchronization constitutes the root cause of many contemporary quotidien scaling bottlenecks, well below the mark of thousands or millions of cores where runtime failures and soft errors become critical coniderations.
-Secondly, a best-effort approach  challenges of heterogenous, varying (i.e., due to power management), and generally lower communication bandwidth (relative to compute) expected on future HPC hardware \citep{gropp2013programming, acun2014parallel}.
+Secondly, a best-effort approach  challenges of heterogenous, varying (i.e., due to power management), and generally lower communication bandwidth (relative to compute) expected on future HPC hardware citep{gropp2013programming, acun2014parallel}.
 A best-effort communication model presents the possibility of runtime adaptation to effectively utilize available resources given the particular ratio of compute and communication capability at any one moment in any one rack.
 
 Complex biological organisms exhibit characteristic best-effort properties: trillions of cells interact asynchronously while overcoming all but the most extreme failures in a noisy world.
 As such, bio-inspired algorithms present strong potential to benefit from best-effort communication strategies.
 For example, evolutionary algorithms commonly use guided stochastic methods (i.e., selection and mutation operators) resulting in a search process that does not guarantee optimality, but typically produces a diverse range of high-quality results.
-Indeed, island model genetic algorithms are easy to parallelize and have been shown to perform well with asynchronous migration \citep{izzo2009parallel}.
-Likewise, artificial life simulations commonly rely on a bottom-up approach and seek to model life-as-it-could-be evolving in a noisy environment akin to the natural world, yet distinct from it \citep{bonabeau1994we}. % rather than the implications of certain mechanistic assumptions
-Although perfect reproducibility and observability have uniquely enabled digital evolution experiments to ask and answer otherwise intractable questions \citep{pontes2020evolutionary,lenski2003evolutionary,grabowski2013case,dolson2020interpreting,fortuna2019coevolutionary,goldsby2014evolutionary,covert2013experiments,zaman2011rapid,bundy2021footprint,dolson2017spatial}, the reliable digital machine model is not strictly necessary for all such work.
-Issues of distributed and parallel computing are of special interest within the the artificial life subdomain of open-ended evolution (OEE) \citep{ackley2014indefinitely}, which studies long-term dynamics of evolutionary systems in order to understand factors that affect potential to generate ongoing novelty \citep{taylor2016open}.
-Recent evidence suggests that the generative potential of at least some model systems are --- at least in part --- meaningfully constrained by available compute resources \citep{channon2019maximum}.
+Indeed, island model genetic algorithms are easy to parallelize and have been shown to perform well with asynchronous migration citep{izzo2009parallel}.
+Likewise, artificial life simulations commonly rely on a bottom-up approach and seek to model life-as-it-could-be evolving in a noisy environment akin to the natural world, yet distinct from it citep{bonabeau1994we}. % rather than the implications of certain mechanistic assumptions
+Although perfect reproducibility and observability have uniquely enabled digital evolution experiments to ask and answer otherwise intractable questions citep{pontes2020evolutionary,lenski2003evolutionary,grabowski2013case,dolson2020interpreting,fortuna2019coevolutionary,goldsby2014evolutionary,covert2013experiments,zaman2011rapid,bundy2021footprint,dolson2017spatial}, the reliable digital machine model is not strictly necessary for all such work.
+Issues of distributed and parallel computing are of special interest within the the artificial life subdomain of open-ended evolution (OEE) citep{ackley2014indefinitely}, which studies long-term dynamics of evolutionary systems in order to understand factors that affect potential to generate ongoing novelty citep{taylor2016open}.
+Recent evidence suggests that the generative potential of at least some model systems are --- at least in part --- meaningfully constrained by available compute resources citep{channon2019maximum}.
 
-Much exciting work on best-effort computing has incorporated bespoke experimental hardware \citep{chippa2014scalable, ackley2011homeostatic, cho2012ersa, chakrapani2008probabilistic}.
+Much exciting work on best-effort computing has incorporated bespoke experimental hardware citep{chippa2014scalable, ackley2011homeostatic, cho2012ersa, chakrapani2008probabilistic}.
 However, here, we focus on exploring best-effort communication among parallel and distributed elements within existing, commercially-available hardware.
 Existing software libraries, though, do not explicitly expose a convenient best-effort communication interface for such work.
 As such, best-effort approaches remain rare in production software and efforts to study best-effort communication must make use of a combination of limited existing support and the development of new software tools.
 
-The Message Passing Interface (MPI) standard \citep{gropp1996high} represents the mainstay for high-performance computing applications.
+The Message Passing Interface (MPI) standard citep{gropp1996high} represents the mainstay for high-performance computing applications.
 This standard exposes communication primitives directly to the end user.
 MPI's nonblocking communication primitives, in particular, are sufficient to program distributed computations with relaxed synchronization requirements.
 Although its explicit, the imperative nature of the MPI protocols enables precise control over execution; unfortunately it also poses significant expense in terms of programability.
-This cost manifests in terms of reduced programmer productivity and software quality, while increasing domain knowledge requirements and the effort required to tune for performance due to program brittleness \citep{gu2019comparative, tang2014mpi}.
+This cost manifests in terms of reduced programmer productivity and software quality, while increasing domain knowledge requirements and the effort required to tune for performance due to program brittleness citep{gu2019comparative, tang2014mpi}.
 
 In response to programmability concerns, many frameworks have arisen to offer useful parallel and distributed programming abstractions.
-Task-based frameworks such as Charm++ \citep{kale1993charm++}, Legion \citep{bauer2012legion}, Cilk \citep{blumofe1996cilk}, and Threading Building Blocks (TBB) \citep{reinders2007intel} describe the dependency relationships among computational tasks and associated data and relies on an associated runtime to automatically schedule and manage execution.
+Task-based frameworks such as Charm++ citep{kale1993charm++}, Legion citep{bauer2012legion}, Cilk citep{blumofe1996cilk}, and Threading Building Blocks (TBB) citep{reinders2007intel} describe the dependency relationships among computational tasks and associated data and relies on an associated runtime to automatically schedule and manage execution.
 These frameworks assume a deterministic relationship between tasks.
-In a similar vein, programming languages and extensions like Unified Parallel C (UPC) \citep{el2006upc} and Chapel \citep{chamberlain2007parallel} rely on programmers to direct execution, but equips them with powerful abstractions, such as global shared memory.
+In a similar vein, programming languages and extensions like Unified Parallel C (UPC) citep{el2006upc} and Chapel citep{chamberlain2007parallel} rely on programmers to direct execution, but equips them with powerful abstractions, such as global shared memory.
 However, Chapel's memory model explicitly forbids data races and UPC ultimately relies on a barrier model for data transfer.
 
-To bridge these shortcomings, we employ a new software framework, the Conduit C++ Library for Best-Effort High Performance Computing \citep{moreno2021conduit}.
+To bridge these shortcomings, we employ a new software framework, the Conduit C++ Library for Best-Effort High Performance Computing citep{moreno2021conduit}.
 The Conduit library provides tools to perform best-effort communication in a flexible, intuitive interface and uniform inter-operation of serial, parallel, and distributed modalities.
-Although Conduit currently implements distributed functionality via MPI intrinsics, in future work we will explore lower-level protocols like InfiniBand Unreliable Datagrams \citep{kashyap2006ip, koop2007high}.
+Although Conduit currently implements distributed functionality via MPI intrinsics, in future work we will explore lower-level protocols like InfiniBand Unreliable Datagrams citep{kashyap2006ip, koop2007high}.
 
 Here, we present a set of on-hardware experiments to empirically characterize Conduit's best-effort communication model.
 First, we determine whether best-effort communication strategies can benefit performance compared to the traditional perfect communication model.
 We also tested two intermediate, partially synchronized modes: one where the processor pool completed a global barrier (i.e., they aligned at a sychronization point) at predetermined, rigidly scheduled timepoints and another where global barriers occurred on a rolling basis spaced out by fixed-length delays from the end of the last synchronization.%
-\footnote{
-Our motivation for these intermediate synchronization modes was interest in the effect of clearing any potentially-unbounded accumulation of message backlogs on laggard processes.
-}
-We test across processor counts, expecting to see the marginal benefit from best-effort communication increase at higher processor counts.
-We focus on weak scaling, growing overall problem size proportional to processor count.
-Put another way, we hold problem size per processor constant.%
-\footnote{
-As opposed to strong scaling, where the problem size is held fixed while processor count increases.
-}
 This approach prevents interference from shifts in processes' workload profiles in observation of the effects of scaling up processor count.
 In order to survey across workload profiles, we tested performance under both a communication-intensive graph coloring solver and a compute-intensive artificial life simulation.
 To survey across hardware configurations, we tested scaling CPU count via threading on a single node and scaling via multiprocessing with each process assigned to a distinct node.
@@ -1594,7 +1516,8 @@ Digital evolution techniques compliment traditional wet-lab evolution experiment
     resource- and labor-intensity (digital experiments and assays can be easily automated).
 
 The versatility and rapid generational turnover of digital systems can easily engender a notion that such systems can already operate at scales greatly exceeding biological evolution experiments. Although digital evolution techniques can feasibly simulate populations numbering in the millions or billions, very simple agents and/or very limited agent-agent interaction. With more complex agents controlled by genetic programs, neural networks, or the like, feasible population sizes dwindle down to thousands or hundreds of agents.
-🔗 Putting Scale in Perspective
+
+## Putting Scale in Perspective
 
 Take Avida as an example. This popular software system that enables experiments with evolving self-replicating computer programs. In this system, a population of ten thousand can undergo about twenty thousand generations per day. This means that about two hundred million replication cycles are performed in a day [Ofria et al., 2009].
 
@@ -1605,14 +1528,17 @@ Likewise, in Ratcliff’s work studying the evolution of multicellularity in S. 
 Although artificial life practitioners traditionally describe instances of their simulations as “worlds,” with serial processing power their scale aligns (in naive terms) more along the lines of a single flask. Of course, such a comparison neglects the disparity between Avidians and bacteria or yeast in terms of genome information content, information content of cellular state, and both quantity and diversity of interactions with the environment and with other cells.
 
 Recent work with SignalGP has sought to address some of these shortcomings by developing digital evolution substrates suited to more dynamic environmental and agent-agent interactions [Lalejini and Ofria, 2018] that more effectively incorporate state information [Lalejini et al., 2020; Moreno, 2020]. However, to some degree, more sophisticated and interactive evolving agents will necessarily consume more CPU time on a per-replication-cycle basis — further shrinking the magnitude of experiments tractable with serial processing.
-🔗 The Future is Plastics Parallel
+
+## The Future is Plastics Parallel
 
 Throughout the 20th century, serial processing enjoyed regular advances in computational capacity due to quickening clock cycles, burgeoning RAM caches, and increasingly clever packing together of instructions during execution. Since, however, performance of serial processing has bumped up against apparent fundamental limits to computing’s current technological incarnation [Sutter, 2005]. Instead, advances in 21st century computing power have arrived via multiprocessing [Hennessy and Patterson, 2011, p.55] and hardware acceleration (e.g., GPU, FPGA, etc.) [Che et al., 2008].
 
 Contemporary high-performance computing clusters link multiprocessors and accelerators with fast interconnects to enable coordinated work on a single problem [Hennessy and Patterson, 2011, p.436]. High-end clusters already make hundreds of thousands or millions of cores available. More loosely-affiliated banks of servers can also muster significant computational power. For example, Sentient Technologies notably employed a distributed network of over a million CPUs to run evolutionary algorithms [Miikkulainen et al., 2019].
 
 The availability of orders of magnitude greater parallel computing resources in ten and twenty years’ time seems probable, whether through incremental advances with traditional silicon-based technology or via emerging, unconventional technologies such as bio-computing [Benenson, 2009] and molecular electronics [Xiang et al., 2016]. Such emerging technologies could make greatly vaster collections of computing devices feasible, albeit at the potential cost of component-wise speed [Bonnet et al., 2013; Ellenbogen and Love, 2000] and perhaps also component-wise reliability.
-🔗 What of Scale?
+
+
+## What of Scale?
 
 Parallel and distributed computing has long been intertwined with digital evolution [Moreno and Ofria, 2020]. Practitioners typically proceed along the lines of the island model, where subpopulations evolve in parallel with intermittent exchange of individuals [Bennett III et al., 1999]. Similarly, in scientific contexts, absolute segregation is often enforced between parallel subpopulations to yield independent replicate datasets [Dolson and Ofria, 2017].
 

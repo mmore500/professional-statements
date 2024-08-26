@@ -1,0 +1,4 @@
+run = "make fresh"
+
+[nix]
+channel = "stable-24_05"
